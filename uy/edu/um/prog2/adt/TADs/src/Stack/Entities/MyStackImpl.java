@@ -2,7 +2,6 @@ package Stack.Entities;
 
 import java.util.EmptyStackException;
 
-//El stack es lifo
 public class MyStackImpl<T> implements MyStack<T> {
     private MyStackNode<T> top;
     private int size;

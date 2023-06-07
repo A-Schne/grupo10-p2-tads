@@ -25,7 +25,6 @@ public class TestHash {
         hash.put(2, "dos");
         hash.put(3, "tres");
         System.out.println(hash.get(2));
-        //Si le pido get 4 (que no esta) me da No existe. Lo saco para que no me aparezca rojo
     }
 
     @Test

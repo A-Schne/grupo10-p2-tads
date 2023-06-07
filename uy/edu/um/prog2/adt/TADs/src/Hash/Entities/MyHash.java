@@ -19,7 +19,5 @@ public interface MyHash<K, V> {
 
     public void clear();
 
-   /* public boolean isDeleted();*/
-
 }
 

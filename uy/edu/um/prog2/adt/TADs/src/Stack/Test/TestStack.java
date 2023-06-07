@@ -67,5 +67,4 @@ public class TestStack {
         stack.push(3);
         stack.isEmpty();
     }
-
 }

@@ -79,7 +79,7 @@ public class MyHashImpl<K, V> implements MyHash<K, V> {
     }
 
     @Override
-    public boolean containsKey(K key) { //devuelve true si el codigo esta ahi
+    public boolean containsKey(K key) {
         int position = key.hashCode() % tableSize;
         if (table[position] != null && table[position].getKey().equals(key)) {
             return true;
