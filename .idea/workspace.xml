@@ -4,44 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83d09f9a-fd33-4a91-8604-e29b53aa88f5" name="Changes" comment="Commit TADs">
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/BST/Entities/MyTreeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/BST/Entities/MyTreeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/BST/Entities/MyTreeInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/BST/Entities/MyTreeInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/BST/Entities/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/BST/Entities/Nodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/BST/Test/TestUnitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/BST/Test/TestUnitario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Hash/Entities/MyHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Hash/Entities/MyHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Hash/Entities/MyHashImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Hash/Entities/MyHashImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Hash/Entities/MyHashNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Hash/Entities/MyHashNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Hash/Exceptions/HashVacio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Hash/Exceptions/HashVacio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Hash/Exceptions/NoExiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Hash/Exceptions/NoExiste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Hash/Test/TestHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Hash/Test/TestHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Heap/Entities/MyHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Heap/Entities/MyHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Heap/Entities/MyHeapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Heap/Entities/MyHeapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Heap/Entities/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Heap/Entities/Nodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Heap/Exceptions/NodoNoExiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Heap/Exceptions/NodoNoExiste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Heap/Test/TestUnitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Heap/Test/TestUnitario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Linked_List/Entities/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Linked_List/Entities/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Linked_List/Entities/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Linked_List/Entities/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Linked_List/Entities/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Linked_List/Entities/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Linked_List/Exceptions/NoExiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Linked_List/Exceptions/NoExiste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Linked_List/Test/TestUnitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Linked_List/Test/TestUnitario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/Entities/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/Entities/LinkedListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/Entities/ListaQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/Entities/ListaQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/Entities/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/Entities/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/Entities/MyQueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/Entities/MyQueueImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/Entities/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/Entities/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/Test/TestUnitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/Test/TestUnitario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/exceptions/EmptyQueueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/exceptions/EmptyQueueException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Queue/exceptions/NoExiste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Queue/exceptions/NoExiste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Stack/Entities/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Stack/Entities/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Stack/Entities/MyStackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Stack/Entities/MyStackImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Stack/Entities/MyStackNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Stack/Entities/MyStackNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uy/edu/um/prog2/adt/src/TADs/Stack/Test/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uy/edu/um/prog2/adt/TADs/Stack/Test/TestStack.java" afterDir="false" />
+    <list default="true" id="83d09f9a-fd33-4a91-8604-e29b53aa88f5" name="Changes" comment="Refactor directories">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entities/Hashtag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entities/Hashtag.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Qq6MageOLTsoV9TCLWrjRyZAHj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -113,11 +92,26 @@
       <option name="project" value="LOCAL" />
       <updated>1687273463432</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactor directories">
+      <created>1687273766603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687273766603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactor directories">
+      <created>1687273955158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687273955158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit TADs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit TADs" />
+    <MESSAGE value="Refactor directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor directories" />
   </component>
 </project>
